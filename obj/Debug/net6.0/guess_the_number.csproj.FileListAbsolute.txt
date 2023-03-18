@@ -1,0 +1,15 @@
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\bin\Debug\net6.0\guess_the_number.exe
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\bin\Debug\net6.0\guess_the_number.deps.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\bin\Debug\net6.0\guess_the_number.runtimeconfig.json
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\bin\Debug\net6.0\guess_the_number.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\bin\Debug\net6.0\guess_the_number.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.AssemblyReference.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfoInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfo.cs
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\refint\guess_the_number.dll
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\guess_the_number.genruntimeconfig.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\guess_the_number\obj\Debug\net6.0\ref\guess_the_number.dll
