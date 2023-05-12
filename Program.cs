@@ -8,6 +8,7 @@
 
             while (range == "" || !(int.TryParse(range, out int result)) || int.Parse(range) <= 1)
             {
+                Console.Clear();
                 Console.WriteLine("Welcome to Guess The Number where you have to guess the number with hints that i will give you.");
                 Console.WriteLine("type the end number of range that you want to play on.");
 
@@ -26,7 +27,6 @@
 
             while(int.Parse(answer) != x)
             {
-                number_of_attempts++;
                 Console.WriteLine("type in your guess.");
                 answer = Console.ReadLine();
 
@@ -37,7 +37,7 @@
                     answer = Console.ReadLine();
                     is_answer_int = int.TryParse(answer, out parsed_answer);
                 }
-
+                number_of_attempts++;
                 if (parsed_answer < 1 || parsed_answer > parsed_range) Console.WriteLine("out of range, range is 1-" + range);
                 else if (parsed_answer > x) Console.WriteLine("your guess in above number that i picked");
                 else if(parsed_answer < x) Console.WriteLine("your guess in below number that i picked");
